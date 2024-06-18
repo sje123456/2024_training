@@ -1,0 +1,12 @@
+[workspace]
+restore_data_on_startup = True
+save_data_on_exit = True
+save_history = True
+save_non_project_files = False
+project_type = 'empty-project-type'
+recent_files = ['../.config/spyder-py3/temp.py', 'fill_table.py', '../the_third/mysql_test/sqlalchemy_test/operation.py', 'step.md', '../the_third/mysql_test/sqlalchemy_test/test.py', '../the_third/mysql_test/sqlalchemy_test/models.py', 'data_model.py', 'query.py', 'connect_database.py', 'download.py']
+
+[main]
+version = 0.2.0
+recent_files = []
+

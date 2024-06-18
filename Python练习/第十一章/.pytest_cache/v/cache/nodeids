@@ -1,6 +1,0 @@
-[
-  "test_cities.py::test_city_country",
-  "test_city_country_population.py::test_city_country_population",
-  "test_employee.py::test_give_default_raise",
-  "test_employee.py::test_give_custom_raise"
-]
